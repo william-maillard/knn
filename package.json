@@ -1,0 +1,12 @@
+{
+  "name": "knn",
+  "version": "1.0.0",
+  "homepage": "https://william-maillard.github.io/knn",
+  "description": "Graphic illustration of the execution of a knn execution using a binary tree cutting the space.",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "MAILLARD William",
+  "license": "ISC"
+}
